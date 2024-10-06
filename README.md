@@ -1,0 +1,1 @@
+Hangman game is a word guessing game .Here users are allowed to guess one letter at a time .They have 6 lives in total .If they manage to guess the word before all lives are exhausted they win .Else they lose .
